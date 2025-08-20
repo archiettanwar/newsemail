@@ -1,6 +1,5 @@
 import ssl
 import smtplib
-import os
 
 def sendemail(msg):
     host="smtp.gmail.com"
